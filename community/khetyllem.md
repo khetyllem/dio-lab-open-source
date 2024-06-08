@@ -1,4 +1,4 @@
-    <h2> Khetyllem Mª S. da Silva </h2>
+    Khetyllem Mª S. da Silva 
 
 <p align="justify">
   🤓 Olá! Meu nome é Khetyllem Mª S. da Silva e sou Estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhaguera e, atualmente, estou cursando o bootcamp da DIO de BackEnd Python. Sou apaixonado por programação, com foco específico em Python e possuo conhecimentos básicos em HTML5.
